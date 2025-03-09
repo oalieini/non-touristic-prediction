@@ -1,5 +1,4 @@
 '''to run the application:
-cd backend/non-touristic-predictions
 streamlit run app.py
 '''
 
